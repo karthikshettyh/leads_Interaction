@@ -1,0 +1,14 @@
+This dashboard is designed with 3 dynamic pages, each focusing on different aspects of the lead Interaction.
+
+Page 1: Lead Engagement Overview
+Displays gender-wise lead breakdown, average demo watch %, and city-wise lead distribution.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Page 2: Demo Interaction Trends
+Time series chart showing trend of average demo watched %, Successful vs. unsuccessful call outcomes, Assigned leads by junior and senior managers, Filters by city, gender, 
+and language.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Page 3: Call Reason & Status Analysis
+Breakdown of call outcomes by call reason, Summary matrix of success rate by cycle, Comparative visuals for demo interest and successful conversions, 
+Insights segmented by lead stages and call status.
